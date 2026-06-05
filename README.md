@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Gustavo%20Dev&fontColor=ffffff&fontSize=45&fontAlignY=35"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Gust%20Dev01&fontColor=ffffff&fontSize=45&fontAlignY=35"/>
 
 # Olá, eu sou Gustavo 👋
 
@@ -60,17 +60,6 @@
 
 </div>
 
----
-
-## 🚀 Projetos em Destaque
-
-* 📚 Sistema de Biblioteca em Java
-* 🛒 API REST com Node.js
-* ✅ Gerenciador de Tarefas com React
-* 📊 Sistema de Controle Financeiro
-* 🎓 Plataforma de Estudos para ENEM
-
----
 
 ## 📈 Estatísticas GitHub
 
@@ -79,16 +68,6 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=gust-dev01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gust-dev01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Conquistas
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gust-dev01&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
