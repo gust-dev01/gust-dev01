@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Gust%20Dev01&fontColor=ffffff&fontSize=45&fontAlignY=35"/>
 
 # Olá, eu sou Gustavo 👋
@@ -15,6 +15,7 @@
 
 ---
 
+
 ## 🚀 Sobre Mim
 
 * ✨ Criando bugs e aprendendo com eles desde 2025
@@ -23,6 +24,7 @@
 * ⚡ Gosto de transformar teoria em projetos práticos
 
 ---
+
 
 ## 🛠️ Tecnologias e Ferramentas
 
@@ -60,6 +62,7 @@
 </div>
 
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -80,6 +83,8 @@
 
 ---
 
+
+
 ## 🐍 Contribuições
 
 <div align="center">
@@ -89,6 +94,8 @@
 </div>
 
 ---
+
+
 
 ## 📫 Contato
 
