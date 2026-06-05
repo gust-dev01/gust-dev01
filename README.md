@@ -61,25 +61,13 @@
 
 </div>
 
-
+---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gust-dev01&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gust-dev01&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gust-dev01&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gust-dev01&theme=github_dark" />
+</p>
 
 ---
 
