@@ -20,7 +20,6 @@
 * ✨ Criando bugs e aprendendo com eles desde 2025
 * 📚 Atualmente estudando Java, JavaScript, Node.js, React e Banco de Dados
 * 🎯 Objetivo profissional: me tornar Desenvolvedor Full Stack
-* 📖 Conciliando programação com a preparação para o ENEM 2026
 * ⚡ Gosto de transformar teoria em projetos práticos
 
 ---
@@ -61,13 +60,21 @@
 </div>
 
 
-## 📈 Estatísticas GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=gust-dev01&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gust-dev01&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gust-dev01&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gust-dev01&layout=compact&theme=tokyonight"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gust-dev01&theme=tokyonight"/>
 
 </div>
 
@@ -78,20 +85,6 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/gust-dev01/gust-dev01/snake-output/snake.svg" alt="Snake animation"/>
-
-</div>
-
----
-
-## 👾 Pacman Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gust-dev01/gust-dev01/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gust-dev01/gust-dev01/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gust-dev01/gust-dev01/pacman-output/pacman-contribution-graph.svg">
-</picture>
 
 </div>
 
